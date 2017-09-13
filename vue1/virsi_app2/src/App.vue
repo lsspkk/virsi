@@ -1,5 +1,50 @@
 <template>
 <div id="app">
+
+<!--
+   <v-ons-carousel fullscreen swipeable auto-scroll overscrollable :index.sync="carouselIndex" >
+     <v-ons-carousel-item v-for="(value, key) in items" :style="{backgroundColor: value}">
+       <div style="text-align: center; font-size: 30px; margin-top: 20px; color: #fff;">{{key}}</div>
+     </v-ons-carousel-item>
+   </v-ons-carousel>
+-->
+<v-ons-page>
+<v-ons-toolbar class="toolbar">
+  <div class="left">
+<v-ons-toolbar-button @click="onSwipeRight"> --
+</v-ons-toolbar-button>
+sivu {{carouselIndex}} / {{carouselSize}}
+<v-ons-toolbar-button @click="onSwipeLeft"> ++
+</v-ons-toolbar-button>
+</div>
+<div class="right">
+<!--  sivu
+
+<v-ons-input placeholder="1" float
+            v-model.number="carouselIndex" type="number" min="1" max="921"
+          >
+        </v-ons-input>
+-->
+  virsi
+<v-ons-input placeholder="1" float
+            v-model.number="virsiNumber" type="number" min="1" max="632"
+          >
+        </v-ons-input>
+</div>
+</v-ons-toolbar>
+<v-ons-content>
+  <v-ons-range v-model="virsiNumber" style="width: 95%;margin:0 2%;"
+min="1" max="632" step="1" ></v-ons-range>
+
+
+  <!--
+    <img class="nuotti" :src="currentImage()" ></img>
+  -->
+
+<img class="nuotti" :src="currentImage()" v-on:swipeleft="onSwipeLeft" v-on:swiperight="onSwipeRight"></img>
+</v-ons-content>
+</v-ons-page>
+<!--
 <v-ons-page>
    <v-ons-toolbar>
      <div class="left">
@@ -14,14 +59,6 @@
      <ons-toolbar-button @click="(carouselIndex < allItems.length-10) && (carouselIndex=carouselIndex+10)">+10</ons-toolbar-button>
    </div>
    </v-ons-toolbar>
-<!--
-   <v-ons-carousel fullscreen swipeable auto-scroll overscrollable :index.sync="carouselIndex" >
-     <v-ons-carousel-item v-for="(value, key) in items" :style="{backgroundColor: value}">
-       <div style="text-align: center; font-size: 30px; margin-top: 20px; color: #fff;">{{key}}</div>
-     </v-ons-carousel-item>
-   </v-ons-carousel>
--->
-
    <v-ons-carousel fullscreen swipeable auto-scroll overscrollable :index.sync="carouselIndex" auto-refresh>
      <v-ons-carousel-item v-for="item in selectedItems()"
       v-bind:style="">
@@ -29,19 +66,26 @@
        <div style="text-align: center; font-size: 30px; margin-top: 20px;;">{{item.name}}</div>
      </v-ons-carousel-item>
    </v-ons-carousel>
-
  </v-ons-page>
+
+-->
  </div>
 
 </template>
 
 <script>
+
 export default {
   name: 'app',
   data () {
     return {
       msg: 'Virsiä',
-      carouselIndex: 0,
+      carouselIndex: 1,
+      virsiNumber:1,
+      carouselSize: 921,
+
+
+
       allItems:
 
       [ { 'name':'Virsi 001', 'url': 'dist/virsi_001.png' },
@@ -968,65 +1012,66 @@ export default {
 
     }
   },
-  mounted() {
-    this.selectedItems();
-  },
-  methods: {
-      selectedItems() {
-        var v = this.allItems[this.carouselIndex];
-        console.log(v.name, v.url);
-        var start = this.carouselIndex - 1;
-        var end = this.carouselIndex + 1;
-        if( start < 0 ) start = 0;
-        if( end > this.allItems.length ) end = this.allItems.length-1;
-        start = 0;
-        end = this.allItems.length-1;
-        console.log("carousel", this.carouselIndex, "--",start, end);
-        var array = []
-        for( var i=start; i < end; i++ ) {
-          array.push(this.allItems[i]);
+
+  watch: {
+      carouselIndex: function(newIndex) {
+
+        if( newIndex >= this.carouselSize ) {
+          this.carouselIndex = this.carouselSize;
+          return;
         }
-        return array;
+        if( newIndex < 1 ) {
+          this.carouselIndex = 1;
+          return;
+        }
+
+        this.carouselIndex = newIndex;
+        this.virsiNumber = this.allItems[this.carouselIndex-1].name.substring(6,9);
+      },
+      virsiNumber: function(newNumber) {
+        if( newNumber >= 632 ) {
+          this.virsiNumber = 632;
+          return;
+        }
+        if( newNumber < 1 ) {
+          this.virsiNumber = 1;
+          return;
+        }
+        this.virsiNumber = newNumber;
+        console.log(pad(newNumber,3))
+        var padded = pad(newNumber,3)
+        for(var i=0; i < this.carouselSize; i++ ) {
+          if( this.allItems[i].name.substring(6,9) == padded ) {
+            console.log(pad(i,3))
+            this.carouselIndex = i+1;
+            return;
+          }
+        }
       }
+
+  }
+
+  ,
+  methods: {
+      currentImage() {
+        return this.allItems[this.carouselIndex-1].url;
+      },
+      onSwipeLeft() {
+        if( this.carouselIndex < this.allItems.length )
+          this.carouselIndex++;
+      },
+      onSwipeRight() {
+        if( this.carouselIndex > 0 )
+          this.carouselIndex--;
+      },
     }
 
 }
+function pad(num, size) {
+    var s = "000000000" + num;
+    return s.substr(s.length-size);
+}
 </script>
-
 <style>
-#app {
-  font-family: 'Avenir', Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  text-align: center;
-  color: #2c3e50;
-  margin-top: 60px;
-}
 
-h1, h2 {
-  font-weight: normal;
-}
-
-ul {
-  list-style-type: none;
-  padding: 0;
-}
-
-li {
-  display: inline-block;
-  margin: 0 10px;
-}
-
-a {
-  color: #42b983;
-}
-.logo {
-  max-height:35px;
-  margin-top: 5px;
-}
-.nuotti {
-  width:auto;
-  height:115%;
-  margin-top:-7%;
-}
 </style>
