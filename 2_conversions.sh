@@ -51,6 +51,21 @@ elif [ "$1" = "4" ]; then
   cd ..
 
 
+#
+# vilkuilin tiedostoja, ja näytti siltä, että virret ja sanat oli vain vasemmassa laidassa
+# en ole 100% varma, jotkut sanat saattaa tästä kadotakin
+#
+elif [ "$1" = "5" ]; then
+  cd png2
+  for f in *.png; do
+    b=${f%.*}.png
+    set -x
+    mogrify -crop 1500x3150+150+200 +repage "$f" 
+    set +x
+  done
+  cd ..
+
+
 else
   echo "
   Käyttö:
@@ -62,6 +77,8 @@ else
   2_conversions 3   imagemacikilla poistaa png:stä läpinäkyvän pohjan
 
   2_conversions 4   kopioi png2 -hakemistoon 3numeroiset virsinimet
+
+  2_conversions 5   croppaillaan imagemacikilla valkosia alueita pois (en oo tsekannu 100% katoaako jotain)
 
   "
 
