@@ -1,0 +1,2530 @@
+[
+    {
+        "nimi": "Hoosianna, Daavidin poika",
+        "numero": "1"
+    },
+    {
+        "nimi": "Avaja porttis, ovesi",
+        "numero": "2"
+    },
+    {
+        "nimi": "Hoosianna huudetaan",
+        "numero": "3"
+    },
+    {
+        "nimi": "Iloitse morsian",
+        "numero": "4"
+    },
+    {
+        "nimi": "Te laaksot, notkot, nouskaa",
+        "numero": "5"
+    },
+    {
+        "nimi": "Käy, kansa, Herraasi vastaan",
+        "numero": "6"
+    },
+    {
+        "nimi": "Valmistu, Herran kansa",
+        "numero": "7"
+    },
+    {
+        "nimi": "Nyt tahdon käydä vastaan",
+        "numero": "8"
+    },
+    {
+        "nimi": "Kristus tulee, kuningas",
+        "numero": "9"
+    },
+    {
+        "nimi": "Iloitse, kaikki kansa",
+        "numero": "10"
+    },
+    {
+        "nimi": "Sinua, Kristus, odottaa",
+        "numero": "11"
+    },
+    {
+        "nimi": "Mies tänne saapui",
+        "numero": "12"
+    },
+    {
+        "nimi": "Nyt sytytämme kynttilän",
+        "numero": "13"
+    },
+    {
+        "nimi": "Syvässä yössä viesti kiirii",
+        "numero": "14"
+    },
+    {
+        "nimi": "Tiellä ken vaeltaa",
+        "numero": "15"
+    },
+    {
+        "nimi": "Jeesus Kristus meille nyt",
+        "numero": "16"
+    },
+    {
+        "nimi": "Ilon päivä verraton",
+        "numero": "17"
+    },
+    {
+        "nimi": "Nyt ilovirttä veisaten",
+        "numero": "18"
+    },
+    {
+        "nimi": "Syntyi tänne Jumala",
+        "numero": "19"
+    },
+    {
+        "nimi": "Kaikki kansat riemuitkaa",
+        "numero": "20"
+    },
+    {
+        "nimi": "Enkeli taivaan lausui näin",
+        "numero": "21"
+    },
+    {
+        "nimi": "Sinua, Jeesus, kiitämme",
+        "numero": "22"
+    },
+    {
+        "nimi": "On ruusu Iisain juuren",
+        "numero": "23"
+    },
+    {
+        "nimi": "Kas, yöllä paimenille",
+        "numero": "24"
+    },
+    {
+        "nimi": "Nyt seimellesi seisahdan",
+        "numero": "25"
+    },
+    {
+        "nimi": "Oi armon lähde autuas",
+        "numero": "26"
+    },
+    {
+        "nimi": "Juhlimaan tulkaa",
+        "numero": "27"
+    },
+    {
+        "nimi": "Valo syttyi, Jeesus syntyi",
+        "numero": "28"
+    },
+    {
+        "nimi": "Synkkä yö maan peitti aivan",
+        "numero": "29"
+    },
+    {
+        "nimi": "Maa on niin kaunis",
+        "numero": "30"
+    },
+    {
+        "nimi": "Ei valtaa, kultaa, loistoa",
+        "numero": "31"
+    },
+    {
+        "nimi": "Me lapset pienet riennämme",
+        "numero": "32"
+    },
+    {
+        "nimi": "Kun kansa yössä vaeltaa",
+        "numero": "33"
+    },
+    {
+        "nimi": "Ylitse Juudean laidunten",
+        "numero": "34"
+    },
+    {
+        "nimi": "Joulu riemukas",
+        "numero": "35"
+    },
+    {
+        "nimi": "Jo vanha vuosi mennyt on",
+        "numero": "36"
+    },
+    {
+        "nimi": "Taas on yksi vuosi mennyt",
+        "numero": "37"
+    },
+    {
+        "nimi": "Oi kuule, Herra, huutomme",
+        "numero": "38"
+    },
+    {
+        "nimi": "Oi Jeesus, hyvyyttäsi",
+        "numero": "39"
+    },
+    {
+        "nimi": "Oi nimi kaikkein suloisin",
+        "numero": "40"
+    },
+    {
+        "nimi": "Jeesus, nimi verraton",
+        "numero": "41"
+    },
+    {
+        "nimi": "On Jeesus nimi ihanin",
+        "numero": "42"
+    },
+    {
+        "nimi": "On kirkas aamutähti nyt",
+        "numero": "43"
+    },
+    {
+        "nimi": "Jerusalem, katse nosta",
+        "numero": "44"
+    },
+    {
+        "nimi": "Oi Kristus, valtiaamme",
+        "numero": "45"
+    },
+    {
+        "nimi": "Taivaan kirkas tähti kerran",
+        "numero": "46"
+    },
+    {
+        "nimi": "Jeesus, kirkas tähteni",
+        "numero": "47"
+    },
+    {
+        "nimi": "Tänään jälleen Herran kansan",
+        "numero": "48"
+    },
+    {
+        "nimi": "Nyt Herra, rauhaan mennä saan",
+        "numero": "49"
+    },
+    {
+        "nimi": "Jumalaa kiittää sieluni",
+        "numero": "50"
+    },
+    {
+        "nimi": "Kaikki ilon lähteet puhkeavat",
+        "numero": "51"
+    },
+    {
+        "nimi": "Maria, Herran äiti",
+        "numero": "52"
+    },
+    {
+        "nimi": "Nuori neitsyt Maria",
+        "numero": "53"
+    },
+    {
+        "nimi": "Käykäämme nyt Jerusalemiin",
+        "numero": "54"
+    },
+    {
+        "nimi": "Jäi taakse vuori kirkastuksen",
+        "numero": "55"
+    },
+    {
+        "nimi": "Tutkimaan, oi Jeesus, auta",
+        "numero": "56"
+    },
+    {
+        "nimi": "Jeesus, olet elämäni",
+        "numero": "57"
+    },
+    {
+        "nimi": "Kas Karitsata Jumalan",
+        "numero": "58"
+    },
+    {
+        "nimi": "Leipää pelloilta maan",
+        "numero": "59"
+    },
+    {
+        "nimi": "Soi kunnia ja kiitos",
+        "numero": "60"
+    },
+    {
+        "nimi": "Ken tahtoo käydä Herran askelissa",
+        "numero": "61"
+    },
+    {
+        "nimi": "Sinua, Jeesus, piinattiin",
+        "numero": "62"
+    },
+    {
+        "nimi": "Oi rakkain Jeesukseni",
+        "numero": "63"
+    },
+    {
+        "nimi": "Nyt pääsi verta vuotaa",
+        "numero": "64"
+    },
+    {
+        "nimi": "Oi Jumalan Karitsa",
+        "numero": "65"
+    },
+    {
+        "nimi": "Jeesusta nyt Golgatalle",
+        "numero": "66"
+    },
+    {
+        "nimi": "Tulkaa kaikki, katsokaatte",
+        "numero": "67"
+    },
+    {
+        "nimi": "Ristinpuussa Golgatalla",
+        "numero": "68"
+    },
+    {
+        "nimi": "Voi, tuskassaan",
+        "numero": "69"
+    },
+    {
+        "nimi": "Kun katson ristin ihmettä",
+        "numero": "70"
+    },
+    {
+        "nimi": "Laupias Jeesus, minkä rikkomuksen",
+        "numero": "71"
+    },
+    {
+        "nimi": "Nyt liehuu viiri Kuninkaan",
+        "numero": "72"
+    },
+    {
+        "nimi": "Sinulle, oi Vapahtaja",
+        "numero": "73"
+    },
+    {
+        "nimi": "Jeesus, sinun vaivas kovat",
+        "numero": "74"
+    },
+    {
+        "nimi": "Jeesus, turva ainoa",
+        "numero": "75"
+    },
+    {
+        "nimi": "Puoleesi, Vapahtaja",
+        "numero": "76"
+    },
+    {
+        "nimi": "Käy yrttitarhasta polku",
+        "numero": "77"
+    },
+    {
+        "nimi": "Vieraalla maalla kaukana",
+        "numero": "78"
+    },
+    {
+        "nimi": "Oi Jeesus, lähde autuuden",
+        "numero": "79"
+    },
+    {
+        "nimi": "Rakkauden, armon lähde",
+        "numero": "80"
+    },
+    {
+        "nimi": "On taisto tauonnut Golgatalla",
+        "numero": "81"
+    },
+    {
+        "nimi": "On ehtoo jo",
+        "numero": "82"
+    },
+    {
+        "nimi": "On työsi, Jeesus, päätetty",
+        "numero": "83"
+    },
+    {
+        "nimi": "Nyt se suuri päivä koitti",
+        "numero": "84"
+    },
+    {
+        "nimi": "Nyt ylistämme Jumalaa",
+        "numero": "85"
+    },
+    {
+        "nimi": "Maailman ääriin kaikukoon",
+        "numero": "86"
+    },
+    {
+        "nimi": "Kiitosta nyt uhratkaamme",
+        "numero": "87"
+    },
+    {
+        "nimi": "Lensi maahan enkeli",
+        "numero": "88"
+    },
+    {
+        "nimi": "Nyt herää yöstä, henkeni",
+        "numero": "89"
+    },
+    {
+        "nimi": "Kristus nousi kuolleista",
+        "numero": "90"
+    },
+    {
+        "nimi": "Pääsiäisen kirkas aamu koittaa",
+        "numero": "91"
+    },
+    {
+        "nimi": "On Kristus noussut kuolleista",
+        "numero": "92"
+    },
+    {
+        "nimi": "Nouse mieli, käänny kieli",
+        "numero": "93"
+    },
+    {
+        "nimi": "Nyt kansat kaikki laulakaamme",
+        "numero": "94"
+    },
+    {
+        "nimi": "Te kristityt, nyt juhlikaa",
+        "numero": "95"
+    },
+    {
+        "nimi": "Kuoleman kahleet murtanut",
+        "numero": "96"
+    },
+    {
+        "nimi": "Herralle Jeesukselle",
+        "numero": "97"
+    },
+    {
+        "nimi": "Jo nousit haudastasi",
+        "numero": "98"
+    },
+    {
+        "nimi": "Jeesus elää, Herrani",
+        "numero": "99"
+    },
+    {
+        "nimi": "Sait Jeesus, täyden voiton",
+        "numero": "100"
+    },
+    {
+        "nimi": "Oi nouse, aurinkomme",
+        "numero": "101"
+    },
+    {
+        "nimi": "Murhemielin, kyynelöiden",
+        "numero": "102"
+    },
+    {
+        "nimi": "Ah saavu, Jeesus, keskellemme",
+        "numero": "103"
+    },
+    {
+        "nimi": "Pilvimuurista valo välähtää",
+        "numero": "104"
+    },
+    {
+        "nimi": "Aurinkomme ylösnousi",
+        "numero": "105"
+    },
+    {
+        "nimi": "Terve, juhla Kristuksen",
+        "numero": "106"
+    },
+    {
+        "nimi": "Oi Jeesus, yksin laupeus",
+        "numero": "107"
+    },
+    {
+        "nimi": "Oi suuri Voitonruhtinas",
+        "numero": "108"
+    },
+    {
+        "nimi": "Kun nousit Isän kunniaan",
+        "numero": "109"
+    },
+    {
+        "nimi": "Polvistu eteen Herrasi",
+        "numero": "110"
+    },
+    {
+        "nimi": "Oi Pyhä Henki, Herramme",
+        "numero": "111"
+    },
+    {
+        "nimi": "Tule, Pyhä Henki, luoksemme",
+        "numero": "112"
+    },
+    {
+        "nimi": "Oi Pyhä Henki, vahvista",
+        "numero": "113"
+    },
+    {
+        "nimi": "Oi Pyhä Henki, Jumala",
+        "numero": "114"
+    },
+    {
+        "nimi": "Oi Luoja, lohduttajamme",
+        "numero": "115"
+    },
+    {
+        "nimi": "Oi Pyhä Henki, majasi",
+        "numero": "116"
+    },
+    {
+        "nimi": "Pyhä Henki, lohduttaja",
+        "numero": "117"
+    },
+    {
+        "nimi": "Jumala, anna Henkesi",
+        "numero": "118"
+    },
+    {
+        "nimi": "Henki, armon tuoja",
+        "numero": "119"
+    },
+    {
+        "nimi": "Käy, Pyhä Henki, luokseni",
+        "numero": "120"
+    },
+    {
+        "nimi": "Mua, Pyhä Henki, pyhitä",
+        "numero": "121"
+    },
+    {
+        "nimi": "Luojansa sanasta",
+        "numero": "122"
+    },
+    {
+        "nimi": "Oi, Jeesus Kristus, Herramme",
+        "numero": "123"
+    },
+    {
+        "nimi": "Käy köyhään sydämeeni",
+        "numero": "124"
+    },
+    {
+        "nimi": "Kosketa minua, Henki",
+        "numero": "125"
+    },
+    {
+        "nimi": "Me kiitämme sinua",
+        "numero": "126"
+    },
+    {
+        "nimi": "Luoja kolmiyhteinen",
+        "numero": "127"
+    },
+    {
+        "nimi": "Ainoan Herran Jumalan",
+        "numero": "128"
+    },
+    {
+        "nimi": "Jumala kolmiyhteinen",
+        "numero": "129"
+    },
+    {
+        "nimi": "Jumala, Isä taivaassa",
+        "numero": "130"
+    },
+    {
+        "nimi": "Oi Isä kaikkivaltias",
+        "numero": "131"
+    },
+    {
+        "nimi": "Oi rakas Isä, luojamme",
+        "numero": "132"
+    },
+    {
+        "nimi": "Halleluja! Nyt ylistys",
+        "numero": "133"
+    },
+    {
+        "nimi": "Pyhä, pyhä, pyhä",
+        "numero": "134"
+    },
+    {
+        "nimi": "Jumala loi auringon, kuun",
+        "numero": "135"
+    },
+    {
+        "nimi": "Sinua enkeleistä",
+        "numero": "136"
+    },
+    {
+        "nimi": "Armollaan Herra ennättää",
+        "numero": "137"
+    },
+    {
+        "nimi": "Herra valtaistuimeltaan",
+        "numero": "138"
+    },
+    {
+        "nimi": "Oi Jeesus, lasten ystävä",
+        "numero": "139"
+    },
+    {
+        "nimi": "Autuaita kaikki hengessänsä köyhät",
+        "numero": "140"
+    },
+    {
+        "nimi": "Ne jotka täällä uskossa",
+        "numero": "141"
+    },
+    {
+        "nimi": "Oi Jeesus, kiitos nimellesi sun",
+        "numero": "142"
+    },
+    {
+        "nimi": "Oi päivä suuri, autuas",
+        "numero": "143"
+    },
+    {
+        "nimi": "Kuoleman jälkeen parempaa",
+        "numero": "144"
+    },
+    {
+        "nimi": "Taivaassa, johon Jumala",
+        "numero": "145"
+    },
+    {
+        "nimi": "Rauhan saivat pyhät Herran",
+        "numero": "146"
+    },
+    {
+        "nimi": "Sukupolvet ennen meitä",
+        "numero": "147"
+    },
+    {
+        "nimi": "Herää, Herran seurakunta",
+        "numero": "148"
+    },
+    {
+        "nimi": "Tulkaa kaikki kotiin, tulkaa",
+        "numero": "149"
+    },
+    {
+        "nimi": "Oi herätkää, te hitaat sielut, juuri",
+        "numero": "150"
+    },
+    {
+        "nimi": "Nyt yhdessä jo lähtekää",
+        "numero": "151"
+    },
+    {
+        "nimi": "On Kristuksen tulemus arvaamaton",
+        "numero": "152"
+    },
+    {
+        "nimi": "Herää, nouse nukkumasta",
+        "numero": "153"
+    },
+    {
+        "nimi": "Jo nouskaa, kristityt, valvokaa",
+        "numero": "154"
+    },
+    {
+        "nimi": "Jo Herran päivä läsnä on",
+        "numero": "155"
+    },
+    {
+        "nimi": "Hautaan kaikki kaatuu kerran",
+        "numero": "156"
+    },
+    {
+        "nimi": "Maailma täynnä turhuuttaan",
+        "numero": "157"
+    },
+    {
+        "nimi": "Vihan päivä kauhistava",
+        "numero": "158"
+    },
+    {
+        "nimi": "Ken Jumalan tuomion torjua voi",
+        "numero": "159"
+    },
+    {
+        "nimi": "Kun luova tahto kaikkeuden Herran",
+        "numero": "160"
+    },
+    {
+        "nimi": "Vain hetki, Herra kaataa",
+        "numero": "161"
+    },
+    {
+        "nimi": "Kristus-kuningas",
+        "numero": "162"
+    },
+    {
+        "nimi": "Herätkää! niin huuto kaikaa",
+        "numero": "163"
+    },
+    {
+        "nimi": "On Kristus kirkon Herra",
+        "numero": "164"
+    },
+    {
+        "nimi": "On suuri ihme seurakunta Herran",
+        "numero": "165"
+    },
+    {
+        "nimi": "On hengissä maa",
+        "numero": "166"
+    },
+    {
+        "nimi": "Uskomme Jumalaan",
+        "numero": "167"
+    },
+    {
+        "nimi": "Suo, Herra, sama Henki meille",
+        "numero": "168"
+    },
+    {
+        "nimi": "Muista, Herra Kristus pyhä",
+        "numero": "169"
+    },
+    {
+        "nimi": "Jumala ompi linnamme",
+        "numero": "170"
+    },
+    {
+        "nimi": "Minä uskon Isään, Herraan Jumalaamme",
+        "numero": "171"
+    },
+    {
+        "nimi": "Nyt kansat kaikki laulakaa",
+        "numero": "172"
+    },
+    {
+        "nimi": "Ilmoita, Herramme, voimasi meille",
+        "numero": "173"
+    },
+    {
+        "nimi": "Vielä, Herra, kutsut meitä",
+        "numero": "174"
+    },
+    {
+        "nimi": "Seurakunta koolla on",
+        "numero": "175"
+    },
+    {
+        "nimi": "Pois pelko, Herran kansa",
+        "numero": "176"
+    },
+    {
+        "nimi": "Jeesus on paimen, hän kanssamme käy",
+        "numero": "177"
+    },
+    {
+        "nimi": "Myös isämme uskoivat ennen",
+        "numero": "178"
+    },
+    {
+        "nimi": "Siion, apus ainoastaan",
+        "numero": "179"
+    },
+    {
+        "nimi": "Jeesus sanoi omillensa",
+        "numero": "180"
+    },
+    {
+        "nimi": "Jumala täysi turva on",
+        "numero": "181"
+    },
+    {
+        "nimi": "Herramme Kristus, seurakuntaas puolla",
+        "numero": "182"
+    },
+    {
+        "nimi": "On meillä aarre verraton",
+        "numero": "183"
+    },
+    {
+        "nimi": "Mä kauniin tiedän kukkasen",
+        "numero": "184"
+    },
+    {
+        "nimi": "Herra, annat sanassasi",
+        "numero": "185"
+    },
+    {
+        "nimi": "Nyt kuinka kiittäisimme",
+        "numero": "186"
+    },
+    {
+        "nimi": "Armahda, Herra Jumala",
+        "numero": "187"
+    },
+    {
+        "nimi": "On, Herra, pyhä sanasi",
+        "numero": "188"
+    },
+    {
+        "nimi": "Ah Jeesus, ole kanssamme",
+        "numero": "189"
+    },
+    {
+        "nimi": "Sun sanas suojaa, Jumala",
+        "numero": "190"
+    },
+    {
+        "nimi": "On meille Herra Jumala",
+        "numero": "191"
+    },
+    {
+        "nimi": "Kylväjä lähti kylvämään",
+        "numero": "192"
+    },
+    {
+        "nimi": "Autuuden ja armon sana",
+        "numero": "193"
+    },
+    {
+        "nimi": "Jumala on läsnä",
+        "numero": "194"
+    },
+    {
+        "nimi": "On riemu, kun saan tulla",
+        "numero": "195"
+    },
+    {
+        "nimi": "On Herran temppelissä",
+        "numero": "196"
+    },
+    {
+        "nimi": "Ajasta aikaan varjellut",
+        "numero": "197"
+    },
+    {
+        "nimi": "Oi pyhä Herran temppeli",
+        "numero": "198"
+    },
+    {
+        "nimi": "Nyt kiittäkää! On Herra hyvä",
+        "numero": "199"
+    },
+    {
+        "nimi": "Oi, kuinka ihana",
+        "numero": "200"
+    },
+    {
+        "nimi": "Tänne, Jeesus, tulimme",
+        "numero": "201"
+    },
+    {
+        "nimi": "Jeesus, sana elämän",
+        "numero": "202"
+    },
+    {
+        "nimi": "Käy sydämeni temppeliin",
+        "numero": "203"
+    },
+    {
+        "nimi": "Herra Jeesus, Hengelläsi",
+        "numero": "204"
+    },
+    {
+        "nimi": "Nimeesi kokoon tulleina",
+        "numero": "205"
+    },
+    {
+        "nimi": "Taas kasvojesi eteen",
+        "numero": "206"
+    },
+    {
+        "nimi": "Arkana nyt olen tullut",
+        "numero": "207"
+    },
+    {
+        "nimi": "Oi taivaallinen Isämme",
+        "numero": "208"
+    },
+    {
+        "nimi": "Herra, siunaa, auta meitä",
+        "numero": "209"
+    },
+    {
+        "nimi": "Herramme Jeesuksen Kristuksen armo",
+        "numero": "210"
+    },
+    {
+        "nimi": "Oi Herra, kiitos sanastasi",
+        "numero": "211"
+    },
+    {
+        "nimi": "Kiitos, Karitsa kuollut",
+        "numero": "212"
+    },
+    {
+        "nimi": " Taas kutsut meidät temppelistä arkeen",
+        "numero": "21"
+    },
+    {
+        "nimi": "Kun kasteen Jordanvirrassa",
+        "numero": "214"
+    },
+    {
+        "nimi": "Oi armon merta ihmeellistä",
+        "numero": "215"
+    },
+    {
+        "nimi": "Pyhä Isä Jumala",
+        "numero": "216"
+    },
+    {
+        "nimi": "Täynnä kiitosta ja hämmästystä",
+        "numero": "217"
+    },
+    {
+        "nimi": "Tuomme luokse Jeesuksen",
+        "numero": "218"
+    },
+    {
+        "nimi": "Kasteen kirkas vesi on",
+        "numero": "219"
+    },
+    {
+        "nimi": "Oi Jeesus, viimeisenä yönä",
+        "numero": "220"
+    },
+    {
+        "nimi": "Kiittäen nyt ylistämme",
+        "numero": "221"
+    },
+    {
+        "nimi": " Jeesus Kristus, elämämme",
+        "numero": "22"
+    },
+    {
+        "nimi": "Oi Jeesus, armas ystävä",
+        "numero": "223"
+    },
+    {
+        "nimi": "Oi Jeesus, leipä elämän",
+        "numero": "224"
+    },
+    {
+        "nimi": "Jeesus, luona armopöydän",
+        "numero": "225"
+    },
+    {
+        "nimi": "On autuas, ken Jeesusta",
+        "numero": "226"
+    },
+    {
+        "nimi": "Ylistys olkoon aina Isällemme",
+        "numero": "227"
+    },
+    {
+        "nimi": " Vaiti kaikki palvokaamme",
+        "numero": "22"
+    },
+    {
+        "nimi": "Saa ehtoollinen Jeesuksen",
+        "numero": "229"
+    },
+    {
+        "nimi": "Lahjoistas, Jeesus, pyhistä",
+        "numero": "230"
+    },
+    {
+        "nimi": "Maan sato elonaikaan",
+        "numero": "231"
+    },
+    {
+        "nimi": "Taas kutsut meidät pöytääsi",
+        "numero": "232"
+    },
+    {
+        "nimi": "Oi Isä, Poika, Henki Herran",
+        "numero": "233"
+    },
+    {
+        "nimi": "Jeesus, saavun kutsustasi",
+        "numero": "234"
+    },
+    {
+        "nimi": "Armon lähde, Jeesuksemme",
+        "numero": "235"
+    },
+    {
+        "nimi": "Kätesi laske, Herramme",
+        "numero": "236"
+    },
+    {
+        "nimi": "Jo nuoruuteni aikana",
+        "numero": "237"
+    },
+    {
+        "nimi": "Avioliiton Jumala",
+        "numero": "238"
+    },
+    {
+        "nimi": "Loi Herra kuvaksensa",
+        "numero": "239"
+    },
+    {
+        "nimi": "Herra, kaiken onnen tuoja",
+        "numero": "240"
+    },
+    {
+        "nimi": "Herra, rakkaastani",
+        "numero": "241"
+    },
+    {
+        "nimi": "Jo vaietkoon vaikerrus, itku",
+        "numero": "242"
+    },
+    {
+        "nimi": "Tiet kaikki kerran kulkee",
+        "numero": "243"
+    },
+    {
+        "nimi": "Te murheelliset",
+        "numero": "244"
+    },
+    {
+        "nimi": "Nyt sydän luopuu kalleimmastaan",
+        "numero": "245"
+    },
+    {
+        "nimi": "Murheeni syvyydestä",
+        "numero": "246"
+    },
+    {
+        "nimi": "Ah autuas, ken taivaaseen",
+        "numero": "247"
+    },
+    {
+        "nimi": "Jeesus, joka lempeänä",
+        "numero": "248"
+    },
+    {
+        "nimi": "Pois kirkas suvi kulkee",
+        "numero": "249"
+    },
+    {
+        "nimi": "Kirkasta, oi Jeesus, meille",
+        "numero": "250"
+    },
+    {
+        "nimi": "Jumalan valtaistuin on",
+        "numero": "251"
+    },
+    {
+        "nimi": "Oi Paimen lammasten",
+        "numero": "252"
+    },
+    {
+        "nimi": "Herra, joka vartioitset",
+        "numero": "253"
+    },
+    {
+        "nimi": "Sun työhös, Jeesus, kutsun sain",
+        "numero": "254"
+    },
+    {
+        "nimi": "Taivasten taivaisiin",
+        "numero": "255"
+    },
+    {
+        "nimi": "Kristus, Jumalan Poika",
+        "numero": "256"
+    },
+    {
+        "nimi": "Oi Jeesus, synnyit maailmaan",
+        "numero": "257"
+    },
+    {
+        "nimi": "Kiitetty olkoon Jumala",
+        "numero": "258"
+    },
+    {
+        "nimi": "Kiitetty Herra, joka kansallensa",
+        "numero": "259"
+    },
+    {
+        "nimi": "Niin suuresti on Jumala",
+        "numero": "260"
+    },
+    {
+        "nimi": "Oi iloitkaa, te kristityt",
+        "numero": "261"
+    },
+    {
+        "nimi": "On hyvyydessään Jumala",
+        "numero": "262"
+    },
+    {
+        "nimi": "Vuorella Kristus kirkastui",
+        "numero": "263"
+    },
+    {
+        "nimi": "On turmeltunut ihminen",
+        "numero": "264"
+    },
+    {
+        "nimi": "Jeesus armon soi",
+        "numero": "265"
+    },
+    {
+        "nimi": "Oi Jeesus Kristus, Herramme",
+        "numero": "266"
+    },
+    {
+        "nimi": "Sua syvyydestä avuksi",
+        "numero": "267"
+    },
+    {
+        "nimi": "Hädässä huudan Herraa",
+        "numero": "268"
+    },
+    {
+        "nimi": "Älä sure, sielu parka",
+        "numero": "269"
+    },
+    {
+        "nimi": "Enkö Herraa Jumalaani",
+        "numero": "270"
+    },
+    {
+        "nimi": "Nyt kiitän riemuiten",
+        "numero": "271"
+    },
+    {
+        "nimi": "Oi Jeesus, auttaja",
+        "numero": "272"
+    },
+    {
+        "nimi": "Jeesus, parhain ystäväni",
+        "numero": "273"
+    },
+    {
+        "nimi": "Kristuksen tähden menköön vain",
+        "numero": "274"
+    },
+    {
+        "nimi": "Mä elän laupeudesta",
+        "numero": "275"
+    },
+    {
+        "nimi": "Jeesuksesta laulan",
+        "numero": "276"
+    },
+    {
+        "nimi": "Oi Kristus, taivaan kuningas",
+        "numero": "277"
+    },
+    {
+        "nimi": "Oi armon lähde ainoa",
+        "numero": "278"
+    },
+    {
+        "nimi": "Minua, Jeesus, auta",
+        "numero": "279"
+    },
+    {
+        "nimi": "Älä vaadi, Jumala",
+        "numero": "280"
+    },
+    {
+        "nimi": "Lienenkö outo ainoa maan päällä",
+        "numero": "281"
+    },
+    {
+        "nimi": "Oi Jeesus, korkein lohdutus",
+        "numero": "282"
+    },
+    {
+        "nimi": "Ah Jumala, nyt tuskassa",
+        "numero": "283"
+    },
+    {
+        "nimi": "Ah autuas, ken armosta",
+        "numero": "284"
+    },
+    {
+        "nimi": "Voi, mihin raukka juoksisin",
+        "numero": "285"
+    },
+    {
+        "nimi": "Ah armon Herra suloinen",
+        "numero": "286"
+    },
+    {
+        "nimi": "Oi Herra, kuinka jouduinkaan",
+        "numero": "287"
+    },
+    {
+        "nimi": "Silmäisi eteen, Jeesus",
+        "numero": "288"
+    },
+    {
+        "nimi": "Vain sinä tunnet minut, Vapahtaja",
+        "numero": "289"
+    },
+    {
+        "nimi": "Kun Kristus käski sanansa",
+        "numero": "290"
+    },
+    {
+        "nimi": "Kun tunnon taakan alla",
+        "numero": "291"
+    },
+    {
+        "nimi": "Oi, kuinka unhottaisin",
+        "numero": "292"
+    },
+    {
+        "nimi": "En tahdo Herrastani",
+        "numero": "293"
+    },
+    {
+        "nimi": "Ihminen, synnissänsä kauan maannut",
+        "numero": "294"
+    },
+    {
+        "nimi": "Oi Herrani,saan luoksesi",
+        "numero": "295"
+    },
+    {
+        "nimi": "Sinuhun, Jeesus, ainoaan",
+        "numero": "296"
+    },
+    {
+        "nimi": "Mun hyvään Herraani",
+        "numero": "297"
+    },
+    {
+        "nimi": "Vapahtajani Jeesus on",
+        "numero": "298"
+    },
+    {
+        "nimi": "Ei mikään niin voi virvoittaa",
+        "numero": "299"
+    },
+    {
+        "nimi": "Jeesuksen muisto ihana",
+        "numero": "300"
+    },
+    {
+        "nimi": "Kirkasta, oi Kristus, meille",
+        "numero": "301"
+    },
+    {
+        "nimi": "Sinua, Jeesus, odotan",
+        "numero": "302"
+    },
+    {
+        "nimi": "Jeesus, aarteheni",
+        "numero": "303"
+    },
+    {
+        "nimi": "Oi Jeesus Kristus, autuuden",
+        "numero": "304"
+    },
+    {
+        "nimi": "Jeesus, ruokit sanallasi",
+        "numero": "305"
+    },
+    {
+        "nimi": "Jeesus, kruunun kirkkaan kannat",
+        "numero": "306"
+    },
+    {
+        "nimi": "Kiitos olkoon Jumalalle",
+        "numero": "307"
+    },
+    {
+        "nimi": "Ah Jeesus, Herrani",
+        "numero": "308"
+    },
+    {
+        "nimi": "Nyt vielä etehesi",
+        "numero": "309"
+    },
+    {
+        "nimi": "Herra Jeesus kun täällä vain kanssamme on",
+        "numero": "310"
+    },
+    {
+        "nimi": "Jo joudu, mun sieluni, heräämähän",
+        "numero": "311"
+    },
+    {
+        "nimi": "Muistan päivää autuasta",
+        "numero": "312"
+    },
+    {
+        "nimi": "Eteesi, armon Jumala",
+        "numero": "313"
+    },
+    {
+        "nimi": "Suo, Jeesus rakkaani",
+        "numero": "314"
+    },
+    {
+        "nimi": "Valvoa mun, Jeesus, anna",
+        "numero": "315"
+    },
+    {
+        "nimi": "Käyn armoalttarillesi",
+        "numero": "316"
+    },
+    {
+        "nimi": "Vain yksi nimi meille riittää",
+        "numero": "317"
+    },
+    {
+        "nimi": "Jeesus, sä ainoa",
+        "numero": "318"
+    },
+    {
+        "nimi": "Sä kuljet seurassa Jeesuksen",
+        "numero": "319"
+    },
+    {
+        "nimi": "Sinua, Jumalaa",
+        "numero": "320"
+    },
+    {
+        "nimi": "Sinua, Jumala",
+        "numero": "321"
+    },
+    {
+        "nimi": "Ajalla autuaalla me",
+        "numero": "322"
+    },
+    {
+        "nimi": "Nyt kiitä, sielu, Herraa",
+        "numero": "323"
+    },
+    {
+        "nimi": "Hyvä on Herra",
+        "numero": "324"
+    },
+    {
+        "nimi": "Tulkaa ja riemuitkaa",
+        "numero": "325"
+    },
+    {
+        "nimi": "Sinulle kiitos, Isä maan ja taivaan",
+        "numero": "326"
+    },
+    {
+        "nimi": "Kaikki maat, te riemuitkaatte",
+        "numero": "327"
+    },
+    {
+        "nimi": "Nyt kiitos Jumalan",
+        "numero": "328"
+    },
+    {
+        "nimi": "Kiitos nyt Herran",
+        "numero": "329"
+    },
+    {
+        "nimi": "Nyt Herran hyvyydestä",
+        "numero": "330"
+    },
+    {
+        "nimi": "Ylistän Herran nimeä",
+        "numero": "331"
+    },
+    {
+        "nimi": " Herraa hyvää kiittäkää",
+        "numero": "33"
+    },
+    {
+        "nimi": "Kiitä Herraa, sieluni",
+        "numero": "333"
+    },
+    {
+        "nimi": "Armon lapset, riemuitkaa",
+        "numero": "334"
+    },
+    {
+        "nimi": "Kaikkivoipa Jumalamme",
+        "numero": "335"
+    },
+    {
+        "nimi": "Me riemumielin ylistämme",
+        "numero": "336"
+    },
+    {
+        "nimi": "Ei laulamasta lakkaa",
+        "numero": "337"
+    },
+    {
+        "nimi": "Päivä vain ja hetki kerrallansa",
+        "numero": "338"
+    },
+    {
+        "nimi": "Halleluja, kiitos Herran",
+        "numero": "339"
+    },
+    {
+        "nimi": "Herrasta veisaa kieleni",
+        "numero": "340"
+    },
+    {
+        "nimi": "Kiitos sulle, Jumalani",
+        "numero": "341"
+    },
+    {
+        "nimi": "Niin ihanaa on ylistää",
+        "numero": "342"
+    },
+    {
+        "nimi": "Voisinpa Jeesuksestani",
+        "numero": "343"
+    },
+    {
+        "nimi": "Maan ja taivaan Luojan",
+        "numero": "344"
+    },
+    {
+        "nimi": "Jo mahtaisimme yötä ja päivääkin kiittää",
+        "numero": "345"
+    },
+    {
+        "nimi": "Mä huudan, Kristus, sinua",
+        "numero": "346"
+    },
+    {
+        "nimi": "Pois viha käännä, Herra, säästä meitä",
+        "numero": "347"
+    },
+    {
+        "nimi": "Niin kuin peura janoissansa",
+        "numero": "348"
+    },
+    {
+        "nimi": "Oi Kristus, edessäsi",
+        "numero": "349"
+    },
+    {
+        "nimi": "Oi Herra, korvas kallista",
+        "numero": "350"
+    },
+    {
+        "nimi": "Taas ahdistuksen alta",
+        "numero": "351"
+    },
+    {
+        "nimi": "Herra, koska tuskissani",
+        "numero": "352"
+    },
+    {
+        "nimi": "Puolees, Jeesus, rukouksin",
+        "numero": "353"
+    },
+    {
+        "nimi": "Kristityn ilman ristiä",
+        "numero": "354"
+    },
+    {
+        "nimi": "Jeesus, ilo elämäni",
+        "numero": "355"
+    },
+    {
+        "nimi": "Tyydy, sielu, Herran tahtohon",
+        "numero": "356"
+    },
+    {
+        "nimi": "Saavu, Jeesus, suuri armontuoja",
+        "numero": "357"
+    },
+    {
+        "nimi": "Immanuel, mun valoni",
+        "numero": "358"
+    },
+    {
+        "nimi": "Vaivaisten turva ainoa",
+        "numero": "359"
+    },
+    {
+        "nimi": "Suo, Herra, mun sinuhun uskaltaa",
+        "numero": "360"
+    },
+    {
+        "nimi": "Koska valaissee kointähtönen",
+        "numero": "361"
+    },
+    {
+        "nimi": "Oi Herra, ilo suuri",
+        "numero": "362"
+    },
+    {
+        "nimi": "Kuin mainen kulta puhdistuu",
+        "numero": "363"
+    },
+    {
+        "nimi": "Tie taivaan kaita, ahdas on",
+        "numero": "364"
+    },
+    {
+        "nimi": "Käy kohti isänmaatansa",
+        "numero": "365"
+    },
+    {
+        "nimi": "Oi Isä meidän, huolen meistä kannat",
+        "numero": "366"
+    },
+    {
+        "nimi": "On autuasta Jeesukseen",
+        "numero": "367"
+    },
+    {
+        "nimi": "Jeesus matkakumppani",
+        "numero": "368"
+    },
+    {
+        "nimi": "Nyt päivä laskee, pilvi peittää",
+        "numero": "369"
+    },
+    {
+        "nimi": "Ah, tiesi usko haltuun Herran",
+        "numero": "370"
+    },
+    {
+        "nimi": "Sun sanas, Herra, kutsuu luokses meitä",
+        "numero": "371"
+    },
+    {
+        "nimi": "Isän käsi, sydämeeni",
+        "numero": "372"
+    },
+    {
+        "nimi": "Jeesus, kuule rukoukset",
+        "numero": "373"
+    },
+    {
+        "nimi": "Mitä silloin multa puuttuu",
+        "numero": "374"
+    },
+    {
+        "nimi": "Kun Herra hoitaa, paimentaa",
+        "numero": "375"
+    },
+    {
+        "nimi": "Sinua, Jeesus, rakastan",
+        "numero": "376"
+    },
+    {
+        "nimi": "Sun haltuus, rakas Isäni",
+        "numero": "377"
+    },
+    {
+        "nimi": "Kaitse, Jeesus, paimen hyvä",
+        "numero": "378"
+    },
+    {
+        "nimi": "Herralle tiesi anna",
+        "numero": "379"
+    },
+    {
+        "nimi": "Herra, hoida lastasi",
+        "numero": "380"
+    },
+    {
+        "nimi": "Herrassa on valo, autuus",
+        "numero": "381"
+    },
+    {
+        "nimi": "Sinuhun turvaan, Jumala",
+        "numero": "382"
+    },
+    {
+        "nimi": "Nyt ylös vuoriin tiellä",
+        "numero": "383"
+    },
+    {
+        "nimi": "Autuas, ken elämänsä",
+        "numero": "384"
+    },
+    {
+        "nimi": "Auta, oi Jeesus, kun eksytys suuri",
+        "numero": "385"
+    },
+    {
+        "nimi": "Salattu Herra, valtakunnassasi",
+        "numero": "386"
+    },
+    {
+        "nimi": "Herraamme aina luottaa saa",
+        "numero": "387"
+    },
+    {
+        "nimi": "Jeesus, johdata",
+        "numero": "388"
+    },
+    {
+        "nimi": "Jumalan haltuun anna",
+        "numero": "389"
+    },
+    {
+        "nimi": "Oi Jeesus, armon ruhtinas",
+        "numero": "390"
+    },
+    {
+        "nimi": "Armahda, oi Herra, meitä",
+        "numero": "391"
+    },
+    {
+        "nimi": "Oi, miksi tiellä Herrani",
+        "numero": "392"
+    },
+    {
+        "nimi": "Vakaana Herran teitä",
+        "numero": "393"
+    },
+    {
+        "nimi": "Minua tutkit, Herrani",
+        "numero": "394"
+    },
+    {
+        "nimi": "Jo ennen syntymääni",
+        "numero": "395"
+    },
+    {
+        "nimi": "Käyn kohti sinua, oi Herrani",
+        "numero": "396"
+    },
+    {
+        "nimi": "Kun on turva Jumalassa",
+        "numero": "397"
+    },
+    {
+        "nimi": "Oi tulkaa, työtätekevät",
+        "numero": "398"
+    },
+    {
+        "nimi": "Taas armon kyllyydestä",
+        "numero": "399"
+    },
+    {
+        "nimi": "Voi niitä, jotka etsivät",
+        "numero": "400"
+    },
+    {
+        "nimi": "Oi Herra, Henkes valo suo",
+        "numero": "401"
+    },
+    {
+        "nimi": "En tehdä hyvää voisi",
+        "numero": "402"
+    },
+    {
+        "nimi": "Oi Herra, vakavasti",
+        "numero": "403"
+    },
+    {
+        "nimi": "Voittaja, suo voitto meille",
+        "numero": "404"
+    },
+    {
+        "nimi": "Kirkkautta kohti kulje",
+        "numero": "405"
+    },
+    {
+        "nimi": "Jo herää, sielu, synnin unestasi",
+        "numero": "406"
+    },
+    {
+        "nimi": "Nyt nukutko vaan",
+        "numero": "407"
+    },
+    {
+        "nimi": "Joutukaa, sielut, on aikamme kallis",
+        "numero": "408"
+    },
+    {
+        "nimi": "Suo, Jeesus, paras opettaja",
+        "numero": "409"
+    },
+    {
+        "nimi": "Maailman tungoksessa käy",
+        "numero": "410"
+    },
+    {
+        "nimi": "Rohkenethan, minkä maksoi",
+        "numero": "411"
+    },
+    {
+        "nimi": "Miksi itkit, Vapahtaja",
+        "numero": "412"
+    },
+    {
+        "nimi": "Ah, miksi taivaan valtakunnan",
+        "numero": "413"
+    },
+    {
+        "nimi": "Oi, kuinka onkaan autuas",
+        "numero": "414"
+    },
+    {
+        "nimi": "Käskien et",
+        "numero": "415"
+    },
+    {
+        "nimi": "Nyt on aika kiitoksen",
+        "numero": "416"
+    },
+    {
+        "nimi": "Jeesus, askeleesi",
+        "numero": "417"
+    },
+    {
+        "nimi": "Apostolinsa maailmaan",
+        "numero": "418"
+    },
+    {
+        "nimi": "Soi, riemuviesti Jumalan",
+        "numero": "419"
+    },
+    {
+        "nimi": "Nyt soikoon taivas kiitostaan",
+        "numero": "420"
+    },
+    {
+        "nimi": "Siion, kutsu kansat maan",
+        "numero": "421"
+    },
+    {
+        "nimi": "Jeesus Kristus, nimeäsi",
+        "numero": "422"
+    },
+    {
+        "nimi": "Katseesi nosta yli maan",
+        "numero": "423"
+    },
+    {
+        "nimi": "Maan ääriin asti, Herra",
+        "numero": "424"
+    },
+    {
+        "nimi": "Soi kiitosvirsi kerran",
+        "numero": "425"
+    },
+    {
+        "nimi": "Menkää maitten ääriin asti",
+        "numero": "426"
+    },
+    {
+        "nimi": "Taas uudet kielet vievät sanomaa",
+        "numero": "427"
+    },
+    {
+        "nimi": "Kiitos suuren Kuninkaan",
+        "numero": "428"
+    },
+    {
+        "nimi": "Ylitse kaikkien rajojen",
+        "numero": "429"
+    },
+    {
+        "nimi": "Rakkaus, kun kuvaksesi",
+        "numero": "430"
+    },
+    {
+        "nimi": "Ken on mun lähimmäiseni",
+        "numero": "431"
+    },
+    {
+        "nimi": "Herra Jeesus, kunniasta",
+        "numero": "432"
+    },
+    {
+        "nimi": "Oi etkö, ihminen, muistakaan",
+        "numero": "433"
+    },
+    {
+        "nimi": "Kunnian Herraa palvelkaa",
+        "numero": "434"
+    },
+    {
+        "nimi": "Sä käskit, Herra, valona",
+        "numero": "435"
+    },
+    {
+        "nimi": "Rakkaus olet ääretön",
+        "numero": "436"
+    },
+    {
+        "nimi": "Ihmiskunnan tuskaa kantaa",
+        "numero": "437"
+    },
+    {
+        "nimi": "Oi armahda, Kristus, niin kaita on tie",
+        "numero": "438"
+    },
+    {
+        "nimi": "Näytä, Herra Jeesukseni",
+        "numero": "439"
+    },
+    {
+        "nimi": "Orjantappuroita kasvaa",
+        "numero": "440"
+    },
+    {
+        "nimi": "Tänään tässä maailmassa",
+        "numero": "441"
+    },
+    {
+        "nimi": "Herran ristin kantajiksi",
+        "numero": "442"
+    },
+    {
+        "nimi": "Annoit, Herra, tehtävän",
+        "numero": "443"
+    },
+    {
+        "nimi": "On yksi Isä meillä",
+        "numero": "444"
+    },
+    {
+        "nimi": "Oi Pyhä Henki, riennä",
+        "numero": "445"
+    },
+    {
+        "nimi": "Oi Pyhä Henki, pyydämme",
+        "numero": "446"
+    },
+    {
+        "nimi": "Kristus, valo maailman",
+        "numero": "447"
+    },
+    {
+        "nimi": "Ei itää eikä länttäkään",
+        "numero": "448"
+    },
+    {
+        "nimi": "Monin kielin keskeltämme",
+        "numero": "449"
+    },
+    {
+        "nimi": "Maa kaikki vaikka Herran on",
+        "numero": "450"
+    },
+    {
+        "nimi": "Sinulle kiitos, Isä, lahjastasi",
+        "numero": "451"
+    },
+    {
+        "nimi": "Jo Herran armopöytä",
+        "numero": "452"
+    },
+    {
+        "nimi": "Kivi onko kourassani",
+        "numero": "453"
+    },
+    {
+        "nimi": "Liekkejä on monta",
+        "numero": "454"
+    },
+    {
+        "nimi": "Luodut, te Herraa kiittäkää",
+        "numero": "455"
+    },
+    {
+        "nimi": "Jos tahdot hartain mielin",
+        "numero": "456"
+    },
+    {
+        "nimi": "Kiitetty nyt olkoon",
+        "numero": "457"
+    },
+    {
+        "nimi": "Ylistän, Luoja, voimaasi",
+        "numero": "458"
+    },
+    {
+        "nimi": "Taivaat kaikki valtiaansa",
+        "numero": "459"
+    },
+    {
+        "nimi": "Oi Herra kaikkivaltias",
+        "numero": "460"
+    },
+    {
+        "nimi": "Kiitä Herraa, yö ja päivä",
+        "numero": "461"
+    },
+    {
+        "nimi": "Soi kunniaksi Luojan",
+        "numero": "462"
+    },
+    {
+        "nimi": "Kanssa luomakuntansa",
+        "numero": "463"
+    },
+    {
+        "nimi": "Kuin oksat vihannoivat",
+        "numero": "464"
+    },
+    {
+        "nimi": "Lahjoita, Herra, perheisiimme",
+        "numero": "465"
+    },
+    {
+        "nimi": "Oi Herra, kaiken luoja",
+        "numero": "466"
+    },
+    {
+        "nimi": "Oi Jeesus, siunaa äitiä",
+        "numero": "467"
+    },
+    {
+        "nimi": "Syliisi hellään sulje",
+        "numero": "468"
+    },
+    {
+        "nimi": "Kun nimipäiväni on tänään",
+        "numero": "469"
+    },
+    {
+        "nimi": "Kirkkaat riemun äänet soivat",
+        "numero": "470"
+    },
+    {
+        "nimi": "Hyvä Jumala, kiitän kodista",
+        "numero": "471"
+    },
+    {
+        "nimi": "Nyt silmäin alla Jeesuksen",
+        "numero": "472"
+    },
+    {
+        "nimi": "Kaikki katsovat sinua, Herra",
+        "numero": "473"
+    },
+    {
+        "nimi": "Nyt Herrallemme kiitoksen",
+        "numero": "474"
+    },
+    {
+        "nimi": "Kaikkien silmät tarkkaavat",
+        "numero": "475"
+    },
+    {
+        "nimi": "Kun päivä laskee Emmauksessa",
+        "numero": "476"
+    },
+    {
+        "nimi": "On Jumalassa turvani",
+        "numero": "477"
+    },
+    {
+        "nimi": "Jos, Jeesus, Herrani",
+        "numero": "478"
+    },
+    {
+        "nimi": "Sinussa, Kristus, luotiin kerran",
+        "numero": "479"
+    },
+    {
+        "nimi": "Muista, Jeesus, minua",
+        "numero": "480"
+    },
+    {
+        "nimi": "Jumala, käsissäsi",
+        "numero": "481"
+    },
+    {
+        "nimi": "Elämä on meri",
+        "numero": "482"
+    },
+    {
+        "nimi": "Kuka meistä sinua",
+        "numero": "483"
+    },
+    {
+        "nimi": "Totuuden Henki",
+        "numero": "484"
+    },
+    {
+        "nimi": "Kun koulutyöni alkaa taas",
+        "numero": "485"
+    },
+    {
+        "nimi": "Puoleesi, Herra, luomme",
+        "numero": "486"
+    },
+    {
+        "nimi": "Jeesus, sinuun turvaten",
+        "numero": "487"
+    },
+    {
+        "nimi": "Jeesus, sinä itsekin",
+        "numero": "488"
+    },
+    {
+        "nimi": "Sinua, suuri Jumala",
+        "numero": "489"
+    },
+    {
+        "nimi": "Mä silmät luon ylös taivaaseen",
+        "numero": "490"
+    },
+    {
+        "nimi": "Oi Jumala, et hylkää pientä lasta",
+        "numero": "491"
+    },
+    {
+        "nimi": "Ystävä sä lapsien",
+        "numero": "492"
+    },
+    {
+        "nimi": "Jeesus, lasten auttaja",
+        "numero": "493"
+    },
+    {
+        "nimi": "Luoja enkeleineen",
+        "numero": "494"
+    },
+    {
+        "nimi": "Taivaan Isä, nostit minut",
+        "numero": "495"
+    },
+    {
+        "nimi": "Oi Jeesus, ota syliisi",
+        "numero": "496"
+    },
+    {
+        "nimi": "Kun äidit lapsiansa",
+        "numero": "497"
+    },
+    {
+        "nimi": "Nyt kulkee halki korpimaan",
+        "numero": "498"
+    },
+    {
+        "nimi": "Jumalan kämmenellä",
+        "numero": "499"
+    },
+    {
+        "nimi": "Käyn, Jeesus, kasvois etehen",
+        "numero": "500"
+    },
+    {
+        "nimi": "Kuule, Isä taivaan, pyyntö tää",
+        "numero": "501"
+    },
+    {
+        "nimi": "Jeesus, meitä kosketa nyt",
+        "numero": "502"
+    },
+    {
+        "nimi": "Taivaan Isä suojan antaa",
+        "numero": "503"
+    },
+    {
+        "nimi": "Ah vuodata, Herra, jo Henkesi",
+        "numero": "504"
+    },
+    {
+        "nimi": "Valtiaamme, kunniaasi",
+        "numero": "505"
+    },
+    {
+        "nimi": "Jeesus, tänne tulit meitä",
+        "numero": "506"
+    },
+    {
+        "nimi": "Herra, lahjanasi sain nuoren elämäni",
+        "numero": "507"
+    },
+    {
+        "nimi": "Valkeus kirkas päällä synkän maan",
+        "numero": "508"
+    },
+    {
+        "nimi": "Herra, elämääni",
+        "numero": "509"
+    },
+    {
+        "nimi": "Sinä, Jeesus, ymmärrät parhaiten",
+        "numero": "510"
+    },
+    {
+        "nimi": "Tie valmis on",
+        "numero": "511"
+    },
+    {
+        "nimi": "Jo varhain, Herra, annoit",
+        "numero": "512"
+    },
+    {
+        "nimi": "Jeesus, sinä huomaat",
+        "numero": "513"
+    },
+    {
+        "nimi": "Anna meille rauhasi",
+        "numero": "514"
+    },
+    {
+        "nimi": "Nouskaamme vuorelle korkeimmalle",
+        "numero": "515"
+    },
+    {
+        "nimi": "Kuulkaa, keitä Mestari",
+        "numero": "516"
+    },
+    {
+        "nimi": "Herra, kädelläsi",
+        "numero": "517"
+    },
+    {
+        "nimi": "Nyt anna, Herra, tultasi",
+        "numero": "518"
+    },
+    {
+        "nimi": "On työni, Herra, lahjaasi",
+        "numero": "519"
+    },
+    {
+        "nimi": "Oi hyvä Jumala",
+        "numero": "520"
+    },
+    {
+        "nimi": "Oi ihminen, mieleesi paina",
+        "numero": "521"
+    },
+    {
+        "nimi": "Anna, Herra, kansallemme",
+        "numero": "522"
+    },
+    {
+        "nimi": "Loit, Herra, minut maailmaasi",
+        "numero": "523"
+    },
+    {
+        "nimi": "Kun päivän työ on päättynyt",
+        "numero": "524"
+    },
+    {
+        "nimi": "Suurempi kuin sydämeni",
+        "numero": "525"
+    },
+    {
+        "nimi": "Oi Isä, vanhuudessa",
+        "numero": "526"
+    },
+    {
+        "nimi": "Kun askeleeni hidastuu",
+        "numero": "527"
+    },
+    {
+        "nimi": "Luoksemme päivät menneet",
+        "numero": "528"
+    },
+    {
+        "nimi": "Vieläkin Herra tuhlaa",
+        "numero": "529"
+    },
+    {
+        "nimi": "Herrani, minut tänne loit",
+        "numero": "530"
+    },
+    {
+        "nimi": "Lähtöhetken lähetessä",
+        "numero": "531"
+    },
+    {
+        "nimi": "Taas siunattu päivä",
+        "numero": "532"
+    },
+    {
+        "nimi": "Sua kiitän, Jumalani",
+        "numero": "533"
+    },
+    {
+        "nimi": "Yö synkkä aivan hämmästyi",
+        "numero": "534"
+    },
+    {
+        "nimi": "Taas alkaa kiitoksella",
+        "numero": "535"
+    },
+    {
+        "nimi": "Kristus, valo valkeuden",
+        "numero": "536"
+    },
+    {
+        "nimi": "Kun koittaa huomenhetki",
+        "numero": "537"
+    },
+    {
+        "nimi": "Oi Jeesus, lohdutukseni",
+        "numero": "538"
+    },
+    {
+        "nimi": "Ah herää, sydämeni",
+        "numero": "539"
+    },
+    {
+        "nimi": "Aurinko armas valollansa",
+        "numero": "540"
+    },
+    {
+        "nimi": "Yö synkkä on jo hälvennyt",
+        "numero": "541"
+    },
+    {
+        "nimi": "Nyt, Herra, aamun tullen",
+        "numero": "542"
+    },
+    {
+        "nimi": "Valkeus iankaikkinen",
+        "numero": "543"
+    },
+    {
+        "nimi": "Herra Jeesus, anna minun",
+        "numero": "544"
+    },
+    {
+        "nimi": "Kaikessa, Herra armias",
+        "numero": "545"
+    },
+    {
+        "nimi": "Jeesus, ilo sydämeni",
+        "numero": "546"
+    },
+    {
+        "nimi": "Joka aamu on armo uus",
+        "numero": "547"
+    },
+    {
+        "nimi": "Tule kanssani, Herra Jeesus",
+        "numero": "548"
+    },
+    {
+        "nimi": "Isämme, kiitos päivästä",
+        "numero": "549"
+    },
+    {
+        "nimi": "Oi Kristus, kirkas aamunkoi",
+        "numero": "550"
+    },
+    {
+        "nimi": "Sinua, Kristus, kiitämme",
+        "numero": "551"
+    },
+    {
+        "nimi": "Mua siipeis suojaan kätke",
+        "numero": "552"
+    },
+    {
+        "nimi": "Päivä jälleen yöhön vaipuu",
+        "numero": "553"
+    },
+    {
+        "nimi": "Jo päivä ehtii ehtoolle",
+        "numero": "554"
+    },
+    {
+        "nimi": "Oi Herra, luoksein jää",
+        "numero": "555"
+    },
+    {
+        "nimi": "Taas päivä ajan virtahan",
+        "numero": "556"
+    },
+    {
+        "nimi": "Sinun luoksesi, Jeesus",
+        "numero": "557"
+    },
+    {
+        "nimi": "Pois aurinko jo painui vuorten taaksi",
+        "numero": "558"
+    },
+    {
+        "nimi": "Nyt kaikki päättää työnsä",
+        "numero": "559"
+    },
+    {
+        "nimi": "Maat, metsät hiljenneinä",
+        "numero": "560"
+    },
+    {
+        "nimi": "Tästäkin päivästä tahdon nyt kiittää",
+        "numero": "561"
+    },
+    {
+        "nimi": "Kun päivä mailleen vaipuu",
+        "numero": "562"
+    },
+    {
+        "nimi": "Ilta on tullut, Luojani",
+        "numero": "563"
+    },
+    {
+        "nimi": "Aurinko vaipuu mailleen",
+        "numero": "564"
+    },
+    {
+        "nimi": "Nyt melu tyyntyy",
+        "numero": "565"
+    },
+    {
+        "nimi": "Yö joutuu etehemme",
+        "numero": "566"
+    },
+    {
+        "nimi": "Ah, kuinka kevät hohtaa",
+        "numero": "567"
+    },
+    {
+        "nimi": "Oi, kuinka kevät säteilee",
+        "numero": "568"
+    },
+    {
+        "nimi": "Herää, sydän, nukkumasta",
+        "numero": "569"
+    },
+    {
+        "nimi": "Luomisen juhlaa täynnä",
+        "numero": "570"
+    },
+    {
+        "nimi": "Jo joutui armas aika",
+        "numero": "571"
+    },
+    {
+        "nimi": "Taas kukkasilla kukkulat",
+        "numero": "572"
+    },
+    {
+        "nimi": "Maa vaikka synnin tähden",
+        "numero": "573"
+    },
+    {
+        "nimi": "On kaunis synnyinmaamme",
+        "numero": "574"
+    },
+    {
+        "nimi": "Maan muokkasimme, veimme",
+        "numero": "575"
+    },
+    {
+        "nimi": "Maa hohtaa lumivaipassansa",
+        "numero": "576"
+    },
+    {
+        "nimi": "Sun kätes, Herra, voimakkaan",
+        "numero": "577"
+    },
+    {
+        "nimi": "Ylistä Herraa Jumalaa",
+        "numero": "578"
+    },
+    {
+        "nimi": "Oi Herra, korkein valtiaamme",
+        "numero": "579"
+    },
+    {
+        "nimi": "Oi kuningasten kuningas",
+        "numero": "580"
+    },
+    {
+        "nimi": "Kiitos, Jumalamme, kun annoit kauniin maan",
+        "numero": "581"
+    },
+    {
+        "nimi": "Jos maatamme ei rakenna",
+        "numero": "582"
+    },
+    {
+        "nimi": "Veisaten Herralle",
+        "numero": "583"
+    },
+    {
+        "nimi": "Siunaa ja varjele meitä",
+        "numero": "584"
+    },
+    {
+        "nimi": "Siunatkoon Herramme synnyinmaata",
+        "numero": "585"
+    },
+    {
+        "nimi": "Jumala, meille armossa",
+        "numero": "586"
+    },
+    {
+        "nimi": "Terve, rauha suloinen",
+        "numero": "587"
+    },
+    {
+        "nimi": "Rauhan Herra, maailmaasi",
+        "numero": "588"
+    },
+    {
+        "nimi": "Rauhan Herra, siunaa meitä",
+        "numero": "589"
+    },
+    {
+        "nimi": "Rauha ei saavu, jos emme",
+        "numero": "590"
+    },
+    {
+        "nimi": "Uudet taivaat, uuden maan",
+        "numero": "591"
+    },
+    {
+        "nimi": "Mua läsnäolostasi",
+        "numero": "592"
+    },
+    {
+        "nimi": "Maan päällä aina, ihminen",
+        "numero": "593"
+    },
+    {
+        "nimi": "Käy aavaa merta purtemme",
+        "numero": "594"
+    },
+    {
+        "nimi": "Lähdimme liikkeelle isien maasta",
+        "numero": "595"
+    },
+    {
+        "nimi": "Herra, varjelija teiden",
+        "numero": "596"
+    },
+    {
+        "nimi": "Sinua, Luoja taivaitten",
+        "numero": "597"
+    },
+    {
+        "nimi": "Millainen on elämä?",
+        "numero": "598"
+    },
+    {
+        "nimi": "Maailma täällä iloitsee",
+        "numero": "599"
+    },
+    {
+        "nimi": "Hyvyyden voiman ihmeelliseen suojaan",
+        "numero": "600"
+    },
+    {
+        "nimi": "Maailmaa, Herra, armahda",
+        "numero": "601"
+    },
+    {
+        "nimi": "Hämmennys valtaa usein tajuntamme",
+        "numero": "602"
+    },
+    {
+        "nimi": "Isä Jumala, nyt katso maamme puoleen",
+        "numero": "603"
+    },
+    {
+        "nimi": "Oi Herrani, kun matkani",
+        "numero": "604"
+    },
+    {
+        "nimi": "Kun täältä, Jeesus, erkanen",
+        "numero": "605"
+    },
+    {
+        "nimi": "Jo joutuu lähtöhetki",
+        "numero": "606"
+    },
+    {
+        "nimi": "Oi Herrani, nyt haltuusi",
+        "numero": "607"
+    },
+    {
+        "nimi": "Kun saapunut on hetkeni",
+        "numero": "608"
+    },
+    {
+        "nimi": "Jää hyvästi nyt, sinä maailma, jää",
+        "numero": "609"
+    },
+    {
+        "nimi": "Ah, kaikki kaataa kuolema",
+        "numero": "610"
+    },
+    {
+        "nimi": "Käyn aina kohti kuolemaa",
+        "numero": "611"
+    },
+    {
+        "nimi": "Etkö ole ihmisparka",
+        "numero": "612"
+    },
+    {
+        "nimi": "Ken tuonen valtaa karttaa voi?",
+        "numero": "613"
+    },
+    {
+        "nimi": "Nyt edessäsi, Jumala",
+        "numero": "614"
+    },
+    {
+        "nimi": "Oi suruton, niin varma menossasi",
+        "numero": "615"
+    },
+    {
+        "nimi": "Puhtaana niityn kukka",
+        "numero": "616"
+    },
+    {
+        "nimi": "Taivaassa, ratki taivaassa",
+        "numero": "617"
+    },
+    {
+        "nimi": "Ratki taivaassa, ratki taivaassa",
+        "numero": "618"
+    },
+    {
+        "nimi": "Eijaa! Jo laulaa sielu kiitostansa",
+        "numero": "619"
+    },
+    {
+        "nimi": "Sen suven suloisuutta",
+        "numero": "620"
+    },
+    {
+        "nimi": "Matkamiehen mieli palaa",
+        "numero": "621"
+    },
+    {
+        "nimi": "Minä vaivainen, vain mato, matkamies maan",
+        "numero": "622"
+    },
+    {
+        "nimi": "Taivaaseen käy matkamme",
+        "numero": "623"
+    },
+    {
+        "nimi": "Haavoihin Herran Jeesuksen",
+        "numero": "624"
+    },
+    {
+        "nimi": "Jeesus elää, turvani",
+        "numero": "625"
+    },
+    {
+        "nimi": "Tuolla taivaan asunnoissa",
+        "numero": "626"
+    },
+    {
+        "nimi": "Elämä murheen laaksossa",
+        "numero": "627"
+    },
+    {
+        "nimi": "En ymmärrä",
+        "numero": "628"
+    },
+    {
+        "nimi": "Oi riemun rikkautta",
+        "numero": "629"
+    },
+    {
+        "nimi": "Oi, joukko valkopukuinen",
+        "numero": "630"
+    },
+    {
+        "nimi": "Oi Herra, jos mä matkamies maan",
+        "numero": "631"
+    },
+    {
+        "nimi": "Nyt ylös, sieluni",
+        "numero": "632"
+    }
+]
