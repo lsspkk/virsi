@@ -1,0 +1,11 @@
+doc/*
+pdf/*
+png/*
+png2/*
+vue1/virsi_app1/dist/*
+vue1/virsi_app1/node_modules/*
+vue1/virsi_app2/dist/*
+vue1/virsi_app2/node_modules/*
+install.sh
+package-lock.json
+*.zip
