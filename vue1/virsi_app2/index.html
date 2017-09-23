@@ -3,10 +3,60 @@
   <head>
     <meta charset="utf-8">
     <title>virsi_app2</title>
+  <meta name="viewport" content="initial-scale=1.0">
 
    <link rel="stylesheet" type="text/css" href="./node_modules/onsenui/css/onsenui.css">
    <link rel="stylesheet" type="text/css" href="./node_modules/onsenui/css/onsen-css-components.css">
- 
+
+ <style>
+.page {
+  top:auto important;
+  bottom:auto important;
+  left: auto important;
+  right:auto important;
+}
+<style>
+.searchresults tr:hover {
+  background: #ddd;
+  cursor: pointer;;
+}
+.searchresults tr {
+  padding: 5px 20px;
+  line-height: 30px;
+  box-shadow: 0 0 3px rgba(0,0,0,0.5);
+}
+.nuotti {
+  width: 100%;
+}
+.toolbar__center {
+  margin: 0 20px;
+}
+.toolbar .left {
+  padding-left:20px;
+}
+.toolbar .right {
+  padding-right:20px;
+}
+
+.toolbar__left,
+.toolbar .left .toolbar-button > ons-icon[icon*="ion-"]{
+  font-size: 50%;
+}
+.toolbar .left .toolbar-button {
+  padding: 5px;
+}
+@media (min-width:1200px) {
+  .toolbar__left,
+  .toolbar .left ons_icon {
+    font-size: auto;
+  }
+  .nuotti {
+    width: auto;
+    margin: auto auto;
+  }
+}
+
+ </style>
   </head>
   <body>
     <div id="app"></div>

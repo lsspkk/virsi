@@ -60,7 +60,7 @@ elif [ "$1" = "5" ]; then
   for f in *.png; do
     b=${f%.*}.png
     set -x
-    mogrify -crop 1500x3150+150+200 +repage "$f" 
+    mogrify -crop 1250x3100+180+240 +repage "$f" 
     set +x
   done
   cd ..

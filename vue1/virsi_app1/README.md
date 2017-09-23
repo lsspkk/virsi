@@ -1,6 +1,10 @@
-# virsi_app1
 
+
+# virsi_apps
+
+Two vue applications
 > Virsikirja App 1
+> Virsikirja App 2
 
 ## Build Setup
 
